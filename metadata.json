@@ -1,0 +1,6 @@
+{
+  "name": "Shasvat Textiles",
+  "description": "Authentic Solapuri chaddars, towels, rugs, aprons, and napkins with retail and wholesale ordering, live order tracking, and GST invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

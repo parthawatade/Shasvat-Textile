@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shasvat Textiles</string>
+    <string name="brand_name_caps">SHASVAT TEXTILES</string>
+    <string name="brand_tagline_marathi">Aaplyala kuthe milnar assal Solapuri quality maal? Ata fakt aamchya app var!</string>
+    <string name="brand_description">Shop authentic Solapuri chaddars, towels, bedsheets and fabrics directly from the heart of Solapur, delivered to your doorstep. Browse our full collection by category, check fabric quality and sizes, and order in just a few taps. Pay securely with UPI, cards or cash on delivery and track your order live. Retailers and wholesalers can place bulk orders at special prices, with GST invoices. Experience the trusted quality and tradition of Solapuri textiles, now on your phone.</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="search_hint">Search chaddars, towels, satranji, napkins...</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_products">Products</string>
+    <string name="nav_wishlist">Wishlist</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_account">Account</string>
+    <string name="empty_wishlist_title">Your Wishlist is Empty</string>
+    <string name="empty_wishlist_subtitle">Save your favourite Solapuri chaddars, rugs, and towels here to revisit anytime.</string>
+    <string name="empty_cart_title">Your Shopping Cart is Empty</string>
+    <string name="empty_cart_subtitle">Explore authentic Solapuri textiles and add items to your cart.</string>
+    <string name="shopping_bag_label">Shopping Bag Charge (Once per order)</string>
+</resources>
